@@ -20,6 +20,7 @@ h1 {
 
     width: 50%;
     padding-left: 5%;
+    text-align: justify;
 }
 
 .half-width img {
@@ -49,4 +50,43 @@ h1 {
     background-position: right;
 
 
+}
+
+.half-width-1 {
+
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    box-shadow: 10px 10px 40px gray;
+
+
+}
+
+.half-width-1 h2 {
+    font-size: 45px;
+}
+
+.experience {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+
+.er {
+    border-left: 8px solid orange;
+}
+
+.er2 {
+    border-left: 8px solid blue;
+}
+
+.copyw8 {
+    text-align: center;
+    margin-top: 100px;
 }
